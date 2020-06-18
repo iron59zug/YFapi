@@ -1,0 +1,8 @@
+# from Yahoo, no finance
+#https://developer.yahoo.com/api/
+
+# 3rd party, unoffical, finance
+#https://rapidapi.com/blog/how-to-use-the-yahoo-finance-api
+
+# alternatives, finance
+#https://daytradingz.com/yahoo-finance-api-alternatives/
