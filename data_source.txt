@@ -4,5 +4,8 @@
 # 3rd party, unoffical, finance
 #https://rapidapi.com/blog/how-to-use-the-yahoo-finance-api
 
+# EuroNext->quotes->MAX->download
+#https://live.euronext.com/en/product/equities/....isbn....
+
 # alternatives, finance
 #https://daytradingz.com/yahoo-finance-api-alternatives/
