@@ -9,3 +9,7 @@
 
 # alternatives, finance
 #https://daytradingz.com/yahoo-finance-api-alternatives/
+
+# Rust, new language
+#https://www.rust-lang.org/
+#https://datascienceathome.com/rust-and-machine-learning-1-ep-107/
